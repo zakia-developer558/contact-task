@@ -85,16 +85,8 @@ Coverage summary from latest run:
 - [x] ADR.md with architecture and decision notes
 - [x] LOG.md with work steps and timeline
 - [x] Unit, component, and e2e tests with coverage
-- [ ] Optional 3-min demo video
 
-## Evaluation Criteria
 
-1. Architecture & Structure (20)
-2. Code Quality (20)
-3. Problem Solving & Correctness (20)
-4. Edge Case Handling (15)
-5. Performance (15)
-6. Accessibility (5)
-7. Testing (5)
+
 
 
