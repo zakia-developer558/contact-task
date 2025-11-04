@@ -97,10 +97,4 @@ Coverage summary from latest run:
 6. Accessibility (5)
 7. Testing (5)
 
-## Demo Video (Optional)
 
-- Record a short walkthrough (≤3 minutes):
-  - Show landing page at `http://localhost:3000/` and Features.
-  - Navigate to Contacts; demonstrate search, sort, density toggle, and keyboard shortcuts.
-  - Create/edit/delete a task; show optimistic update and error toast/retry.
-  - Briefly call out performance choices and accessibility.
